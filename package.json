@@ -1,0 +1,27 @@
+{
+  "name": "ira",
+  "displayName": "Ira",
+  "version": "0.0.1",
+  "description": "An app for creating playlists of videos from the Game Grumps YouTube channel.",
+  "main": "Ira.js",
+  "scripts": {
+    "start": "node Ira.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alcha/Ira.git"
+  },
+  "author": "Alcha <alcha@paranoiddevs.com> (https://paranoiddevs.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alcha/Ira/issues"
+  },
+  "homepage": "https://github.com/Alcha/Ira#readme",
+  "devDependencies": {
+    "standard": "10.0.3"
+  },
+  "dependencies": {
+    "node-rest-client-promise": "^3.0.0"
+  }
+}
