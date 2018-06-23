@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Alcha/Ira#readme",
   "devDependencies": {
-    "standard": "10.0.3"
+    "standard": "11.0.1"
   },
   "dependencies": {
     "node-rest-client-promise": "^3.0.0"
